@@ -3,10 +3,14 @@
     padding:0;
     box-sizing:border-box;
 }
+body{
+    background-image: url(img/back.png);
+    background-size: cover;
+}
 
 .cen{
     text-align:center;
-    background-color:lightblue;
+    /* background-color:lightblue; */
     border:solid black 1px;
     border-radius:5px;
     height:100vh;
