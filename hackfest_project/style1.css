@@ -1,0 +1,33 @@
+*{
+    margin:auto auto;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.cen{
+    text-align:center;
+    background-color:lightblue;
+    border:solid black 1px;
+    border-radius:5px;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.wrap{
+    width:50%;
+    height:200px;
+    background-color:blueviolet;
+    line-height:50px;
+    padding-top:20px;
+    font-size: 25px;
+    color:white;
+    border-radius: 10px;
+}
+.btn{
+    font-size: 20px;
+    padding:4px;
+    border-radius:7px;
+    background: linear-gradient(45deg,lightblue,rgb(138, 18, 96)) ;
+}
